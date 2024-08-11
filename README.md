@@ -3,7 +3,13 @@
 - 👨‍🎓 IFSP - Bragança Paulista
 - 📍 Extrema, Minas Gerais
 
-<a href = "mailto:ian.souza@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="left">
+  <a href="ian.souza@aluno.ifsp.edu.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 
 <div align="center">
