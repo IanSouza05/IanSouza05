@@ -13,6 +13,9 @@
   </a>
 </div>
 
+- Linguagens:
+- [![My Skills](https://skillicons.dev/icons?i=js,py,react)](https://skillicons.dev)
+
 ###
 
 <div align="center">
