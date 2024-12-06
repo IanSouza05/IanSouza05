@@ -31,8 +31,10 @@
 ###
 
 <div align="left">
-  <img href="https://www.linkedin.com/in/ian-souza-88a303332/" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" href="https://www.linkedin.com/in/ian-souza-88a303332/" />
 </div>
+
+###
 
 ###
 
