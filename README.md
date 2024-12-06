@@ -30,8 +30,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" href="https://www.linkedin.com/in/ian-souza-88a303332/" />
+<div align="left" target="_blank">
+  <a href="https://www.linkedin.com/in/ian-souza-88a303332/"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"/>
 </div>
 
 ###
