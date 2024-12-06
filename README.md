@@ -1,23 +1,40 @@
 ## Olá, mundo! 👋
 
-- 👨‍🎓 Estudante de Análise e desenvolvimento de sistemas - IFSP / Bragança Paulista
 - 📍 Extrema, Minas Gerais
+- 👨‍🎓 Estudante de Análise e desenvolvimento de sistemas - IFSP / Bragança Paulista
 
-- Linguagens:
-  - [![My Skills](https://skillicons.dev/icons?i=js,py,react)](https://skillicons.dev)
+- Linguagens usadas / estudando:
 
 ###
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IanSouza05&theme=flag-india)](https://github.com/IanSouza05/github-readme-stats)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ianSouza05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=flag-india&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+###
 
-- Contato:
-   <div align="left">
-     <a href="https://www.linkedin.com/in/ian-souza-88a303332/" target="_blank">
-       <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="40" alt="LinkedIn logo" />
-     </a>
-   </div>
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IanSouza05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=flag-india&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IanSouza05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=flag-india&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+- Contato: 
+
+###
+
+<div align="left">
+  <img href="https://www.linkedin.com/in/ian-souza-88a303332/" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+</div>
+
+###
 
 ###
 <picture align="center">
