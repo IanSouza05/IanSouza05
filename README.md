@@ -56,6 +56,10 @@
   <a href="https://www.linkedin.com/in/ian-souza-88a303332/"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"/>
 </div>
+<div align="left" target="_blank">
+  <a href="iansouza-2012@hotmail.com"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/outlook/outlook-original.svg" height="40" alt="outlook logo"/>
+</div>
 
 ###
 
