@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Ian Souza de Oliveira<br>- 📍 Extrema, Minas Gerais<br>- 👨‍🎓 Estudante de Análise e desenvolvimento de sistemas - IFSP / Bragança Paulista.</p>
+<p align="left">- 👦 Ian Souza de Oliveira<br>- 📍 Extrema, Minas Gerais<br>- 👨‍🎓 Estudante de Análise e desenvolvimento de sistemas - IFSP / Bragança Paulista.</p>
 
 ###
 
@@ -56,16 +56,9 @@
   <a href="https://www.linkedin.com/in/ian-souza-88a303332/"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"/>
 </div>
-<div align="left" target="_blank">
-  <a href="iansouza-2012@hotmail.com"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/outlook/outlook-original.svg" height="40" alt="outlook logo"/>
-</div>
 
 ###
 
-###
-
-###
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IanSouza05/IanSouza05/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IanSouza05/IanSouza05/output/github-contribution-grid-snake-dark.svg">
