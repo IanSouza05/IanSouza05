@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Sobre Mim</h2>
 
 ###
 
-<p align="left">- 👦 Ian Souza de Oliveira<br>- 📍 Extrema, Minas Gerais<br>- 👨‍🎓 Estudante de Análise e desenvolvimento de sistemas - IFSP / Bragança Paulista.</p>
+<p align="left">-👦 Ian Souza de Oliveira<br>-📍 Extrema, Minas Gerais<br>-👨‍🎓 Estudante de Análise e desenvolvimento de sistemas - IFSP / Bragança Paulista.<br>-🧑‍💻 Analista de suporte TI - IK Soluções</p>
 
 ###
 
@@ -19,17 +19,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
@@ -37,14 +37,6 @@
 </div>
 
 ###
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IanSouza05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=flag-india&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=IanSouza05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=flag-india&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
 
 ###
 
